@@ -2,12 +2,14 @@
   "Servers": {
     "Official": [
       {
-        "Address": "official-server-1.com",
-        "Name": "Server 1"
+             "Address": "199.83.103.223",
+             "Port": 10011,
+             "Tags": ""
       },
       {
-        "Address": "official-server-2.com",
-        "Name": "Server 2"
+             "Address": "199.83.103.223",
+             "Port": 10011,
+             "Tags": ""
       }
     ]
   }
